@@ -1,8 +1,8 @@
 server {
 	listen 80;
-    server_name 162.243.184.210;
+    server_name 162.243.184.210 adamcollins.io www.adamcollins.io;
 
 	location / {
-        root /home/adam/PersonalWebsite/index.html;
+        root /home/adam/PersonalWebsite/;
 	}
 }
