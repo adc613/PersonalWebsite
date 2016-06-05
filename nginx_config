@@ -1,0 +1,8 @@
+server {
+	listen 80;
+    server_name 162.243.184.210;
+
+	location / {
+        root /home/adam/PersonalWebsite/index.html;
+	}
+}
